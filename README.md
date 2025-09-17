@@ -1,1 +1,3 @@
-- El Boquetillo Enjoyer
+- Studying Web development.
+
+- English Spanish.
